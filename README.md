@@ -15,7 +15,7 @@ I am looking forward to joining an innovative, dynamic company where I can utili
 
 <b> 🎬 I am ready to start your project immediately.</b>
 ## My Core Skill Stack
-- 💽 <b>Programming Languages</b> : Python, C++/C#, QT, JavaScript, TypeScript, PHP, HTML/HTML5, CSS/SCSS/SASS
+- 💽 <b>Programming Languages</b> : JavaScript, TypeScript, Python, C++/C#, QT, PHP, HTML/HTML5, CSS/SCSS/SASS
 - 🗃 <b>Frontend</b> : React, React Native, Redux, Next.js, Vue.js, Nuxt.js, WebGL, Three.js, D3.js, TailwindCSS, Material-UI, AntDesign
 - 🗃 <b>Backend</b> : Node.js, Express.js, Django, Flask
 - 🥇 <b>Top Skill</b> : Blockchain, Web 3D Animation, AR/VR, WebRTC, Machine Learning
